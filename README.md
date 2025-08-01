@@ -15,7 +15,7 @@ This repository contains my personal DSA practice solutions from various sources
 - ☐ Stacks & Queues
 - ☐ Trees
 - ☐ Graphs
-- ☐ Recursion & Backtracking
+- ✅ Recursion & Backtracking
 - ☐ Dynamic Programming
 - ☐ Bit Manipulation
 - ☐ Sliding Window / Two Pointer
